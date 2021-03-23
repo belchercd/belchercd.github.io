@@ -5,7 +5,7 @@
 ### Projects 
 
 [Spaceshipt Mania- Group Project](https://space-maniaa.web.app/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/spaceship.png?raw=true"/>
 
 ---
 [Skill.it - Group Project](https://github.com/eazheng/fbuapp)
@@ -13,7 +13,7 @@
 
 ---
 [Tipster](https://github.com/belchercd/Tipster)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/tipster.png?raw=true"/>
 
 ---
 
