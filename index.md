@@ -17,13 +17,11 @@
 
 ---
 
-### Category Name 2
+### Class Assignments
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1: Struct](https://replit.com/@CamrynBelcher/Lab-3-Inventory-Control-Shopping-Cart#main.cpp)
+- [Project 2: Classes](https://replit.com/@CamrynBelcher/Lab-4-Inventory-Control-and-Shopping-Cart-Classes#main.cpp)
+- [Project 3 Inheritance](https://replit.com/@CamrynBelcher/Lab-5-Cumulative-Grade-Point-Average#main.cpp)
 
 ---
 
